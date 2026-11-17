@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mhmuhiddinov_png.twa",
+      "sha256_cert_fingerprints": [
+        "2A:40:5A:1E:CF:86:AD:FE:9A:BC:AE:33:42:48:7C:9A:E8:FD:1B:4A:22:59:15:B4:E8:09:3E:B0:85:3F:9A:01"
+      ]
+    }
+  }
+]
